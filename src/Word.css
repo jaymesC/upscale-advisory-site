@@ -1,0 +1,31 @@
+.word {
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  overflow: hidden;
+}
+
+.word h5{
+  font-size: 30px;
+  font-weight: 900;
+}
+
+
+
+
+@media screen and (max-width: 568px) {
+  .word {
+    /* display: none; */
+    top: 50%;
+    font-size: 18px;
+    left: 150px;
+  }
+
+  .word h5{
+  font-size:20px;
+  font-weight: 900;
+}
+}

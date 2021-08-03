@@ -1,0 +1,28 @@
+.container1 {
+  padding-top:50px;
+  background-color: #f4f4f4;
+  margin-bottom: 90px;
+ 
+}
+
+h5{
+  font-size: 16px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.btn {
+  color: #fff;
+}
+
+@media screen and (max-width: 568px) {
+  .container1 {
+  padding-top:10px;
+  margin-bottom: 30px;
+ 
+}
+
+.btn {
+  font-size: 12px;
+}
+}

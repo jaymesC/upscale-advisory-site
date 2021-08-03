@@ -1,0 +1,38 @@
+
+
+.footer__section {
+  background-color: #000;
+  color: #fff;
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+  padding-left: 100px;
+  margin-right: 1px;
+}
+
+.footer__image {
+  cursor: pointer;
+}
+
+.links__footer p{
+  color: #fff;
+}
+
+.copy1 {
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  padding-bottom: 10px;
+}
+
+
+@media screen and (max-width: 568px) {
+  .footer__section {
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+  padding-left: 10px;
+  margin-right: 1px;
+}
+
+
+
+}
